@@ -1,2 +1,1 @@
-# aula_git
-aula sobre git curso ruby
+aula sobre git_curso ruby Siedos
